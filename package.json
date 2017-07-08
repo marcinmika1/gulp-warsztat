@@ -1,0 +1,25 @@
+{
+  "name": "gulp-warsztat",
+  "version": "1.0.0",
+  "description": "gulp-warsztat",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinmika1/gulp-warsztat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinmika1/gulp-warsztat/issues"
+  },
+  "homepage": "https://github.com/marcinmika1/gulp-warsztat#readme"
+}

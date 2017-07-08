@@ -1,0 +1,46 @@
+#landingPage {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../img/background.png);
+  background-position: center;
+  background-size: cover;
+  font-size: 10px; }
+
+#glowne {
+  text-align: right;
+  width: 100%; }
+
+header {
+  width: 100%;
+  height: 100px;
+  text-align: center; }
+
+#logo {
+  width: 49%;
+  display: inline-block;
+  font-size: 50px; }
+
+#telefon {
+  width: 49%;
+  display: inline-block;
+  font-size: 50px; }
+
+#rama {
+  height: 50vh;
+  width: 100%; }
+
+#formularz {
+  text-align: center;
+  display: inline-block; }
+  #formularz h3 {
+    font-size: 20px; }
+  #formularz input {
+    width: 90%;
+    padding: 10px; }
+  #formularz button {
+    background-color: gold; }
+
+#formularz {
+  width: 400px;
+  height: 400px;
+  background-color: blue; }
